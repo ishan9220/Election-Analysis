@@ -30,10 +30,9 @@ The analysis of the election shows that :
 
 ##Python Results in text##
 
-[Election Results] (!image https://user-images.githubusercontent.com/92416151/142970253-3ba5f312-b917-4045-8d18-b61cc87608db.png)
+![Election Results] (https://user-images.githubusercontent.com/92416151/142970253-3ba5f312-b917-4045-8d18-b61cc87608db.png)
 
-[Results as in VS Code Terminal] (! image https://github.com/ishan9220/Election-Analysis/blob/main/Terminal%20Results.png.png)
-
+![Results as in VS Code Terminal] (https://github.com/ishan9220/Election-Analysis/blob/main/Terminal%20Results.png.png)
 
 
 ## Challenge Overivew 
