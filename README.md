@@ -28,7 +28,7 @@ The analysis of the election shows that :
 - The winner of the election was: 
 -     -Diana DeGette or Candidate 2, who received 73.8% of the vote and 272,892 number of votes. 
 
-##Python Results in text##
+Below are screenshot of the Election Results in Txt and as produced with the VS Code Terminal.
 
 ![Election Results](https://user-images.githubusercontent.com/92416151/142970253-3ba5f312-b917-4045-8d18-b61cc87608db.png)
 
