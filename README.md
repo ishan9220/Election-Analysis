@@ -45,7 +45,7 @@ Below are screenshot of the Election Results in Txt and as produced with the VS 
 
 ![Election Results](https://user-images.githubusercontent.com/92416151/142970253-3ba5f312-b917-4045-8d18-b61cc87608db.png)
 
-![Results as in VS Code Terminal]
+![Results as in VS Code Terminal](https://github.com/ishan9220/Election-Analysis/blob/main/Terminal%20Results.png)
 
 
 ## Election Audit Summary
