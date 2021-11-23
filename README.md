@@ -27,6 +27,8 @@ The analysis of the election shows that :
     -Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was: 
 -     -Diana DeGette or Candidate 2, who received 73.8% of the vote and 272,892 number of votes. 
+-     Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+Which county had the largest number of votes?
 
 Below are screenshot of the Election Results in Txt and as produced with the VS Code Terminal.
 
@@ -39,10 +41,6 @@ Below are screenshot of the Election Results in Txt and as produced with the VS 
 
 ## Challenge Summary 
 
-Deliverable 3: Written Analysis of the Election Audit (20 points)
-Deliverable 3 Instructions
-Use your repository README to write your analysis of Deliverables 1 and 2. The analysis should contain the following:
-
 Overview of Election Audit: Explain the purpose of this election audit analysis.
 
 Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
@@ -50,29 +48,9 @@ Election-Audit Results: Using a bulleted list, address the following election ou
 How many votes were cast in this congressional election?
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 Which county had the largest number of votes?
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
 Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
+##Election Audit Summary
 
-There is a title, and there are multiple sections. (2 pt)
-
-Each section has a heading. (2 pt)
-
-Links to images are working, and code is formatted and displayed correctly. (2 pt)
-
-Analysis (14 points)
-The written analysis has the following:
-
-Overview of Election Audit
-
-The purpose of this election analysis audit is well defined. (3 pt)
-Election Audit Results
-
-There is a bulleted list where each election outcome is addressed. (7 pt)
-Election Audit Summary
-
-There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
+The python script here can be modified in a way to use for any election. The script can be modified by changing the data within the txt. file to any other county, state or region and the by changing the name of the candidates as well. 
