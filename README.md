@@ -9,6 +9,11 @@ A Colorado Board of Election employees requests to complete the election audit o
 3. Total number of votes each candidate received. 
 4. The percentage of votes each cadndiate won. 
 5. Te winner of the election based on popular vote. 
+6. The total number of votes cast across the counties of Denver, Jefferson and Arapahoe
+7. Percentage of votes across these 3 counties 
+8. County with the largest voter turnout 
+
+Recommendations on how this format in Python can be used in any Election Result. 
 
 ## Resources 
 Data Source : elction_results.csv
