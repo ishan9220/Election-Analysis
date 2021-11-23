@@ -15,14 +15,16 @@ A Colorado Board of Election employees requests to complete the election audit o
 -Software: Python 3.7, Visual Studio Code, 1.62.
 
 ## Summary 
-The analysis of the election shows that : 
-*There were 369,711 votes cast in the election. 
-*The candidates were: 
-**Charles Casper Stockham (Candidate 1)
-**Diana DeGette (Candidate 2)
-**Raymon Anthony Doane (Candidate 3) 
 
-*The candidate results were : 
+The analysis of the election shows that : 
+* There were 369,711 votes cast in the election. 
+* The candidates were: 
+** Charles Casper Stockham (Candidate 1)
+** Diana DeGette (Candidate 2)
+** Raymon Anthony Doane (Candidate 3) 
+
+The candidate results were : 
+
 * Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.    
 * Diana DeGette received 73.8% of the vote and 272,892 number of votes.
 * Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
@@ -49,10 +51,6 @@ Below are screenshot of the Election Results in Txt and as produced with the VS 
 ![Results as in VS Code Terminal](https://github.com/ishan9220/Election-Analysis/blob/main/Terminal%20Results.png.png)
 
 
-## Challenge Summary 
-
-Overview of Election Audit: Explain the purpose of this election audit analysis.
-
-##Election Audit Summary
+## Election Audit Summary
 
 The python script here can be modified in a way to use for any election. The script can be modified by changing the data within the txt. file to any other county, state or region and the by changing the name of the candidates as well. 
