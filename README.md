@@ -11,17 +11,14 @@ A Colorado Board of Election employees requests to complete the election audit o
 5. Te winner of the election based on popular vote. 
 
 ## Resources 
--Data Source : elction_results.csv
--Software: Python 3.7, Visual Studio Code, 1.62.
+Data Source : elction_results.csv
+Software: Python 3.7, Visual Studio Code, 1.62.
 
 ## Summary 
 
 The analysis of the election shows that : 
 * There were 369,711 votes cast in the election. 
-* The candidates were: 
-** Charles Casper Stockham (Candidate 1)
-** Diana DeGette (Candidate 2)
-** Raymon Anthony Doane (Candidate 3) 
+* The candidates were: Charles Casper Stockham (Candidate 1), Diana DeGette (Candidate 2), Raymon Anthony Doane (Candidate 3) 
 
 The candidate results were : 
 
