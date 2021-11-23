@@ -12,8 +12,7 @@ A Colorado Board of Election employees requests to complete the election audit o
 6. The total number of votes cast across the counties of Denver, Jefferson and Arapahoe
 7. Percentage of votes across these 3 counties 
 8. County with the largest voter turnout 
-
-Recommendations on how this format in Python can be used in any Election Result. 
+9. Recommendations on how this format in Python can be used in any Election Result. 
 
 ## Resources 
 Data Source : elction_results.csv
@@ -45,7 +44,6 @@ Arapahoe County had 6.7% of the total votes with 24,801 votes.
 Largest County Turnout was Denver with 306,055 votes.
 ___________________________________________________________________________________
 
-
 Below are screenshot of the Election Results in Txt and as produced with the VS Code Terminal.
 
 ![Election Results](https://user-images.githubusercontent.com/92416151/142970253-3ba5f312-b917-4045-8d18-b61cc87608db.png)
@@ -55,4 +53,10 @@ Below are screenshot of the Election Results in Txt and as produced with the VS 
 
 ## Election Audit Summary
 
-The python script here can be modified in a way to use for any election. The script can be modified by changing the data within the txt. file to any other county, state or region and the by changing the name of the candidates as well. 
+The candidate Diana DeGette won the election results with the highest percentage share in elections at 73.8% and 272,892 votes. 
+Denver County had the largest turnout in the elections with 82.8% share of the total votes and with 306,055 votes. 
+
+## Recommendation
+The python script here can be modified to to use for any election. The script can be modified by changing the data within the txt. file to any other county, state or region and candidate names by having the script read the new CSV file which is in the same format as the election.results.csv file. 
+
+
