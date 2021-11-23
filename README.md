@@ -16,19 +16,31 @@ A Colorado Board of Election employees requests to complete the election audit o
 
 ## Summary 
 The analysis of the election shows that : 
-- There were 369,711 votes cast in the election. 
-- The candidates were: 
-  - Charles Casper Stockham (Candidate 1)
-  - Diana DeGette (Candidate 2)
-  - Raymon Anthony Doane (Candidate 3) 
-- The candidate results were : 
-    -Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.    
-    -Diana DeGette received 73.8% of the vote and 272,892 number of votes.
-    -Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
-- The winner of the election was: 
--     -Diana DeGette or Candidate 2, who received 73.8% of the vote and 272,892 number of votes. 
--     Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-Which county had the largest number of votes?
+*There were 369,711 votes cast in the election. 
+*The candidates were: 
+**Charles Casper Stockham (Candidate 1)
+**Diana DeGette (Candidate 2)
+**Raymon Anthony Doane (Candidate 3) 
+
+*The candidate results were : 
+* Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.    
+* Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+* Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+___________________________________________________________________________________
+The winner of the election was: Diana DeGette or Candidate 2, who received 73.8% of 
+the vote and 272,892 number of votes. 
+ 
+Here is a breakdown of the number of votes and the percentage of total votes for 
+each county in the precinct.
+
+Total Votes across all counties: 369,711
+
+Jefferson County had 10.5% of the total votes with 38,855 votes. 
+Denver County had 82.8% of the total votes with 306,055 votes. 
+Arapahoe County had 6.7% of the total votes with 24,801 votes. 
+Largest County Turnout was Denver with 306,055 votes.
+___________________________________________________________________________________
+
 
 Below are screenshot of the Election Results in Txt and as produced with the VS Code Terminal.
 
@@ -37,19 +49,9 @@ Below are screenshot of the Election Results in Txt and as produced with the VS 
 ![Results as in VS Code Terminal](https://github.com/ishan9220/Election-Analysis/blob/main/Terminal%20Results.png.png)
 
 
-## Challenge Overivew 
-
 ## Challenge Summary 
 
 Overview of Election Audit: Explain the purpose of this election audit analysis.
-
-Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-
-How many votes were cast in this congressional election?
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-Which county had the largest number of votes?
-
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
 ##Election Audit Summary
 
